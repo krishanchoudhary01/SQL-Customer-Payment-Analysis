@@ -138,26 +138,6 @@ Through this project, I learned:
 
 ---
 
-# Project Screenshots
-
-## Database Tables
-
-(Add table screenshot here)
-
----
-
-## SQL Query Execution
-
-(Add query screenshot here)
-
----
-
-## Query Output
-
-(Add output screenshot here)
-
----
-
 # Project Workflow
 
 1. Imported CSV datasets into PostgreSQL
