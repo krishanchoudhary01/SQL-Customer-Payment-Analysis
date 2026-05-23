@@ -12,6 +12,10 @@ CREATE TABLE payment (
     amount INT
 );
 
+-- Show Customer & Payment Table
+Select * from customer
+Select * from payment
+
 -- INNER JOIN
 
 Select * from customer as c
