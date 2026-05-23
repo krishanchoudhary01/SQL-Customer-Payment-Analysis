@@ -182,7 +182,7 @@ Through this project, I learned:
 # Connect With Me
 
 ## LinkedIn
-([Add LinkedIn Profile Link](https://www.linkedin.com/in/krishan-choudhary-69894235b/))
+([LinkedIn Profile](https://www.linkedin.com/in/krishan-choudhary-69894235b/))
 
 ---
 
